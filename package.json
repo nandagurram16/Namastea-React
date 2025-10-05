@@ -1,0 +1,33 @@
+{
+  "name": "namastea-react",
+  "version": "1.0.0",
+  "description": "This is Namastea React by Nanda Kumar",
+  "keywords": [],
+  "homepage": "https://github.com/nandagurram16/Namastea-React#readme",
+  "bugs": {
+    "url": "https://github.com/nandagurram16/Namastea-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandagurram16/Namastea-React.git"
+  },
+  "license": "ISC",
+  "author": "Nanda",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.30.1"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
